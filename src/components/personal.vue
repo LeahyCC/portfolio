@@ -2,7 +2,7 @@
   <div>
     <h1>About Me</h1>
     <p>
-      Outside of work, I enjoy a wide range of outdoors activities. Cycling on DFW mountain bike trails, early morning road biking. Rock climbing, camping & hiking, National Park enthusiast.
+      Outside of work, I enjoy a wide range of outdoors activities. Cycling on DFW mountain bike trails, early morning road biking. Rock climbing, camping & hiking.
     </p>
     <h3>Work Hobbies</h3>
     <div>

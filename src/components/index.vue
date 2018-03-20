@@ -9,7 +9,10 @@
       <li><a href="https://github.com/LeahyCC" target="_blank">https://github.com/LeahyCC</a></li>
     </ul>
     <p>
-      Passionate about everything Front-end Web Development, always up to-date with latest trends and best practices.
+      Experienced, detailed-oriented, front-end web developer. As you'll see, I have 3 years of hands-on professional and over 5 years personal experience efficiently coding websites and applications using modern HTML, CSS, and JavaScript.
+    </p>
+    <p>
+      Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine and I am confident I would be an excellent addition to any organization. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers, including those I've worked for on a project basis.
     </p>
 
     <h3>Skills</h3>
