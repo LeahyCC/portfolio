@@ -189,12 +189,18 @@ main {
 
   ul.styled-list {
     color: white;
-    list-style-type: circle;
+    list-style-type: disc;
     padding-left: 25px;
     font-size: 0.95em;
 
     li span {
       float: right;
+    }
+
+    ul {
+      list-style-type: circle;
+      margin: 5px 0;
+      padding-left: 25px;
     }
   }
 

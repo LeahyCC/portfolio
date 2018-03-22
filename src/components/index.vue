@@ -18,14 +18,41 @@
     <h3>Skills</h3>
     <div class="work">
       <ul class="styled-list">
-        <li>HTML (HTML5) <span>5 years</span></li>
-        <li>CSS (CSS3 & SASS) <span>5 years</span></li>
-        <li>Javascript & jQuery <span>3 years</span></li>
-        <li>VueJS <span>2 years</span></li>
-        <li>NodeJS <span>2 years</span></li>
+        <li>HTML <span>5 years</span>
+          <ul>
+            <li>Session Storage</li>
+            <li>Local Storage</li>
+            <li>data bindings</li>
+            <li>svg</li>
+            <li>canvas</li>
+          </ul>
+        </li>
+        <li>CSS <span>5 years</span>
+          <ul>
+            <li>CSS3</li>
+            <li>SASS</li>
+            <li>Flex Box</li>
+            <li>animation</li>
+            <li>@keyframe</li>
+          </ul>
+        </li>
+        <li>Javascript <span>3 years</span>
+          <ul>
+            <li>OOP / REST API</li>
+            <li>jQuery</li>
+            <li>VueJS</li>
+            <li>ReactJS</li>
+            <li>NodeJS</li>
+            <li>Regression Testing</li>
+          </ul>
+        </li>
+        <li>Git, SVN <span>3 years</span>
+          <ul>
+            <li>cmd - Windows / iOS</li>
+          </ul>
+        </li>
         <li>Webpack, GulpJS, GruntJS <span>2 years</span></li>
-        <li>Git, SVN <span>2 years</span></li>
-        <li>AngualrJS, ReactJS <span>1 year</span></li>
+        <li>AngualrJS <span>1 year</span></li>
         <li>PHP, Ruby on Rails w/ Homebrew <span>1 year</span></li>
         <li>Google Firebase <span>1 year</span></li>
       </ul>
