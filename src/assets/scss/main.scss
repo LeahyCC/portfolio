@@ -205,11 +205,38 @@ main {
   }
 
   .work {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 
     ul {
       font-size: 14.5px;
       margin-top: 10px;
+      list-style-type: disc;
+      padding-left: 35px;
+    }
+
+    a {
+      color: $cBlue3;
+    }
+
+    h5 {
+      font-weight: 300;
+    }
+
+    h6 {
+      color: #c7c7c7;
+      font-size: 16px;
+      font-weight: 300;
+      margin: 0;
+    }
+
+    hr {
+      display: block;
+      height: 1px;
+      border: 0;
+      border-top: 1px solid #525252;
+      margin: 1em 0;
+      padding: 0; 
     }
   }
 }
